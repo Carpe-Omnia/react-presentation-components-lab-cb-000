@@ -1,3 +1,5 @@
+import React from 'react';
+
 class SimplerComponent extends Component {
   constructor() {
     this.changeText = this.changeText.bind(this)
