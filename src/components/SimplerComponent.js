@@ -1,10 +1,10 @@
 class SimplerComponent extends Component {
-
+  var moodText = "I am just happy"
   render() {
-    var moodText = "I am just happy"
+
     return (
       <div>
-        {moodText}
+        {this.moodText}
       </div>
     )
   }
