@@ -1,7 +1,6 @@
 import React from 'react';
 
-const SimplerComponent = (props) =>
+export default const SimplerComponent = (props) =>
   <div onClick{this.props.onClick} >
     I am just happy.
-  </div>
-  ;
+  </div>;
