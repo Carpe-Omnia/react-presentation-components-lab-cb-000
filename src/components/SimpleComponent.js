@@ -16,5 +16,5 @@ class SimpleComponent extends Component {
         </div>
       )
     }
-  
+
 }
